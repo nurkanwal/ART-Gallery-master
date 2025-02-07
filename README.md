@@ -1,6 +1,6 @@
 # Art-Gallery-website
 Here we have a 3D art gallery which you can visit virtually, also buy artworks.
-
+author -- noorkanwal
 Installation & Setup
 
 **Prerequisites**
